@@ -2,9 +2,7 @@
 
 # Diaugeia.AI
 
-**🔬 Transparent, open-source infrastructure for AI research.**
-
-[🌐 Website](https://diaugeia.com)
+**🔬 Transparent, open-source infrastructure for AI research.** [🌐 Website](https://diaugeia.com)
 
 </div>
 
